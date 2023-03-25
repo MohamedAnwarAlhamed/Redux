@@ -2,3 +2,4 @@ npm init --yes
 npm i redux
 npm i --save redux-logger
 npm i axios
+npm i axios redux-thunk
